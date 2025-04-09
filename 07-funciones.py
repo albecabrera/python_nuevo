@@ -19,3 +19,4 @@ print(restar.__doc__) # Así también se accede al docsctring desde la consola.
 def describir_personas(nombre, edad, sexo):
     print(f'Soy {nombre}, tengo {edad} años y mi sexo es: {sexo}')
 describir_personas("Alberto", 47, "masculino")
+
